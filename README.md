@@ -10,5 +10,5 @@ Currently, I'm working on AmpedRadio, Director of Engineering at Acceptd, and ru
 
 - [https://billcondo.com](https://billcondo.com)
 - [https://mavrck.com](https://mavrck.com)
-- [https:/twitter.com/mavrck](https:/twitter.com/mavrck)
+- [https:/twitter.com/mavrck](https://twitter.com/mavrck)
 - [https://linkedin.com/in/billcondo](https://linkedin.com/in/billcondo)
